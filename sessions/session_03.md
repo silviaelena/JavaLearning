@@ -2,8 +2,8 @@
 
 **Date:** 2026-08-21  
 **Start:** 16:47 (+03:00)  
-**End:** 17:38 (+03:00)  
-**Duration:** 51 minutes
+**End:** 17:39 (+03:00)  
+**Duration:** 52 minutes
 
 ## Central question
 What exactly is stored in a Java variable, and what happens when variables are assigned to each other?
@@ -167,3 +167,28 @@ Level 2 mechanism:
 
 ## Session assessment
 The central reference model was acquired quickly and remained stable across prediction, arrays, aliasing, method calls, and blank-editor coding. The main concepts were largely retrieval/reconstruction rather than first-time learning.
+
+## Retention task
+Without notes, reconstruct:
+
+```text
+Java variables store values
+        ↓
+primitive variable → primitive value
+reference variable → reference value / null
+
+assignment → copies value
+
+reference copy
+        ↓
+two variables can refer to same object
+
+mutation → changes object
+reassignment → changes variable
+
+method call → copies argument value into parameter
+        ↓
+Java is always pass-by-value
+```
+
+Recall this model briefly the next day and again after a few days rather than rereading the full lesson.
