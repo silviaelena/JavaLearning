@@ -54,7 +54,7 @@ Depth is controlled explicitly:
 |---|---|---:|---:|---:|
 | 1 | Java execution model + source structure | 12:10 | 12:55 | 45 min |
 | 2 | Classes and objects | 15:08 | 15:48 | 40 min |
-| 3 | Primitives and references | 16:45 | — | in progress |
+| 3 | Primitives and references | 16:47 | 17:38 | 51 min |
 
 See [`sessions/`](sessions/) for detailed notes.
 
