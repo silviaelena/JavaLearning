@@ -1,4 +1,4 @@
-package chatgpt_lessons.session1;
+package session_01.exercises;
 
 /**
  * @author snistor

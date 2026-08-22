@@ -1,4 +1,4 @@
-package chatgpt_lessons.session3;
+package session_03.exercises;
 
 import java.util.Arrays;
 
