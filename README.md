@@ -5,6 +5,10 @@ A structured Java mastery track focused on two goals in parallel:
 1. **Deep Java understanding** — language semantics, object model, runtime mechanisms, JVM, memory, concurrency, modern Java.
 2. **Interview fluency** — fast code production from memory, collections, comparators, APIs, debugging, prediction, and later DSA-oriented Java practice.
 
+## Curriculum
+
+See [`CURRICULUM.md`](CURRICULUM.md) for the full Java mastery path, including the language foundations, OOP/type system, collections/generics, modern Java, JVM/runtime, concurrency, and interview-fluency phases.
+
 ## Teaching model
 
 **Map → mechanism → practice → depth.**
