@@ -81,7 +81,7 @@ Completed Java exercises are stored verbatim so mistakes, corrections, and fluen
 | 1 | Java execution model + source structure | 2026-08-21 | 12:10 | 12:55 | 45 min |
 | 2 | Classes and objects | 2026-08-21 | 15:08 | 15:48 | 40 min |
 | 3 | Primitives and references | 2026-08-21 | 16:47 | 17:39 | 52 min |
-| 4 | Object state, methods, `this`, encapsulation | 2026-08-22 | 11:19 | in progress | active time tracked separately |
+| 4 | Object state, methods, `this`, encapsulation | 2026-08-22 | 11:19 | 14:11 | 2h 12m active |
 
 See [`sessions/`](sessions/) for detailed notes and coding exercises.
 
