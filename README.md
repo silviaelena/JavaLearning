@@ -48,15 +48,38 @@ Depth is controlled explicitly:
 - UPB Java/OOP labs — implementation-heavy practice.
 - Interview layer — blank-editor coding, syntax recall, code reading, debugging, fast API usage.
 
+## Repository structure
+
+Each session is self-contained:
+
+```text
+sessions/
+├── session_01/
+│   ├── notes.md
+│   └── exercises/
+├── session_02/
+│   ├── notes.md
+│   └── exercises/
+├── session_03/
+│   ├── notes.md
+│   └── exercises/
+└── session_04/
+    ├── notes.md
+    └── exercises/
+```
+
+Completed Java exercises are stored verbatim so mistakes, corrections, and fluency patterns remain available for later course analytics.
+
 ## Sessions
 
-| # | Topic | Start | End | Duration |
-|---|---|---:|---:|---:|
-| 1 | Java execution model + source structure | 12:10 | 12:55 | 45 min |
-| 2 | Classes and objects | 15:08 | 15:48 | 40 min |
-| 3 | Primitives and references | 16:47 | 17:39 | 52 min |
+| # | Topic | Date | Start | End | Duration |
+|---|---|---|---:|---:|---:|
+| 1 | Java execution model + source structure | 2026-08-21 | 12:10 | 12:55 | 45 min |
+| 2 | Classes and objects | 2026-08-21 | 15:08 | 15:48 | 40 min |
+| 3 | Primitives and references | 2026-08-21 | 16:47 | 17:39 | 52 min |
+| 4 | Object state, methods, `this`, encapsulation | 2026-08-22 | 11:19 | in progress | active time tracked separately |
 
-See [`sessions/`](sessions/) for detailed notes.
+See [`sessions/`](sessions/) for detailed notes and coding exercises.
 
 ## Analytics goal
 
