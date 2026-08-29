@@ -67,8 +67,13 @@ sessions/
 ├── session_03/
 │   ├── notes.md
 │   └── exercises/
-└── session_04/
+├── session_04/
+│   ├── notes.md
+│   └── exercises/
+└── session_05/
     ├── notes.md
+    ├── SmallDog.java
+    ├── DogCare.java
     └── exercises/
 ```
 
@@ -82,6 +87,7 @@ Completed Java exercises are stored verbatim so mistakes, corrections, and fluen
 | 2 | Classes and objects | 2026-08-21 | 15:08 | 15:48 | 40 min |
 | 3 | Primitives and references | 2026-08-21 | 16:47 | 17:39 | 52 min |
 | 4 | Object state, methods, `this`, encapsulation | 2026-08-22 | 11:19 | 14:11 | 2h 12m active |
+| 5 | `final`, immutability, defensive copying | 2026-08-29 | — | — | — |
 
 See [`sessions/`](sessions/) for detailed notes and coding exercises.
 
